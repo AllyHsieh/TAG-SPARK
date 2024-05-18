@@ -10,6 +10,13 @@ The images for demo are save in the [drive](https://drive.google.com/drive/folde
 ```
 TAG-SPARK/datasets/29_4_2_4
 ```
+datasets: input data
+
+pth: trained models
+
+results: output data after testing
+
+onxx: 
 
 ## Pytorch code
 
