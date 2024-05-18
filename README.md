@@ -12,9 +12,9 @@ TAG-SPARK/datasets/29_4_2_4
 ```
 datasets: input data
 
-pth: trained models
+pth: trained models automatically save
 
-results: output data after testing
+results: output data after testing automatically save
 
 onxx: 
 
