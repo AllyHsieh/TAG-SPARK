@@ -1,5 +1,15 @@
 # TAG-SPARK
--NTHU DAIL version
+- Tunable Acoustic Gradient lens based SPAtial redundancy-driven noise Reduction Kernel (TAG-SPARK)
+- NTHU DAIL version
+
+# Create folders
+
+Before starting, please create these empty folders, 'datasets', 'onxx', 'pth', 'results', or you can download all folders from drive directly.
+
+The images for demo are save in the [drive](https://drive.google.com/drive/folders/1-f3TDycAgjHYhIojLQrKLHLZerYAkT7E?usp=drive_link):
+```
+TAG-SPARK/datasets/29_4_2_4
+```
 
 ## Pytorch code
 
